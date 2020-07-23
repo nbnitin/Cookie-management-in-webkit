@@ -1,0 +1,6 @@
+framework module Pods_Storkie {
+  umbrella header "Pods-Storkie-umbrella.h"
+
+  export *
+  module * { export * }
+}
